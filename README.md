@@ -5,7 +5,7 @@
 - 📫 How to reach me (https://www.linkedin.com/in/prabhu-kulkarni-42040870/)
 
 Current skills ::
-C++,VC++, MFC, Installshield, MSI, OpenCV, Computer vision models
+C++, VC++, MFC, Setting up CI/CD pipelines, Jenkins, Quickbuild, Installshield, MSI, OpenCV, Computer vision models
 
 <!---
 Prabhukp/Prabhukp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
